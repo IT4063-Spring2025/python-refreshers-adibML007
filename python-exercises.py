@@ -18,7 +18,7 @@
 # - 🚩 - Checkpoint; marks a good spot for you to commit your code to git
 # - 🕵️ - Tester; Don't modify code blocks starting with this emoji
 
-# In[27]:
+# In[1]:
 
 
 # 🦉 Usually, the first cell in a notebook, is where'd import all modules and third-party modules.
@@ -450,5 +450,5 @@ else:
 
 
 # 🦉: The following command converts this Jupyter notebook to a Python script.
-# get_ipython().system('jupyter nbconvert --to python python-exercises.ipynb')
+get_ipython().system('jupyter nbconvert --to python python-exercises.ipynb')
 
